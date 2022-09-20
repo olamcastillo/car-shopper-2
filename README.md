@@ -1,0 +1,1 @@
+# car shopper using template, fragment, array with delegation of events
